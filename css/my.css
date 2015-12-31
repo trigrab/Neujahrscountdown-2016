@@ -1,0 +1,35 @@
+body {
+    background: url(../images/background.jpg);
+}
+
+.rcorners {
+    border-radius: 25px;
+    background: lightgrey;
+}
+
+table {
+}
+
+td { 
+    vertical-align: middle;
+}
+
+tr {
+    padding: 20px;
+}
+
+.right {
+    text-align: justify;
+    width: 98%
+}
+
+.left {
+    color: grey;
+    padding: 15px;
+}
+
+#header {
+    width: 100%;
+    text-align: center;
+    margin: 5px;
+}
